@@ -1,1 +1,1 @@
-health_is_false
+health_is_true
